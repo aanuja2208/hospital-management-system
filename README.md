@@ -2,16 +2,25 @@
 
 A comprehensive web-based platform for managing hospital operations, patient records, doctor schedules, and administrative tasks.
 
-## 📸 Screenshots
+## 📸 Workflow & Screenshots
 
-### Login Portal
-![Login Portal](docs/login_1772428789379.png)
+### 1. Secure Login Portal
+![Login Portal](docs/1_login_1772430803047.png)
 
-### Admin Dashboard
-![Admin Dashboard](docs/admin_dashboard_1772428876605.png)
+### 2. Patient Dashboard
+![Patient Dashboard](docs/2_patient_dash_1772430714121.png)
 
-### Patient Dashboard
-![Patient Dashboard](docs/patient_dashboard_1772428816859.png)
+### 3. Patient Appointment Booking
+![Booking View](docs/3_patient_booking_1772430791540.png)
+
+### 4. Admin Dashboard Oversight
+![Admin Dashboard](docs/4_admin_dash_1772430844734.png)
+
+### 5. Admin Doctors Directory
+![Doctors Directory](docs/5_admin_doctors_1772430871965.png)
+
+### 6. Admin Department Settings
+![Department View](docs/6_admin_settings_1772430886775.png)
 
 ## 🚀 Key Features
 
