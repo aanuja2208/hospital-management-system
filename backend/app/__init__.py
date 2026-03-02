@@ -1,0 +1,1 @@
+# Hospital Management Platform - Backend
