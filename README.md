@@ -9,9 +9,6 @@ A comprehensive hospital operations and decision support system designed to mana
 - **Predictive Modelling**: Includes an ML-driven predictive model (`analytics/no_show_prediction.py`) that identifies patients at high risk of no-shows to optimize schedule utilization.
 - **Power BI Integration**: Generated BI datasets perfectly modeled to drive a 4-page Healthcare Operations Dashboard tracking department capacity, appointment funnels, and real-time operational alerts.
 
-### Resume Impact
-> Designed a relational healthcare database and developed 20+ analytical SQL queries using joins, CTEs, window functions, and conditional aggregation to evaluate appointment demand, no-shows, wait times, and doctor utilization.
-
 ## 📸 Workflow & Screenshots
 
 ### 1. Secure Login Portal
